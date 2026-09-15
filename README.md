@@ -1,6 +1,6 @@
 # Ex. No: 9 - Packet Tracer: Subnet an IPv4 Network
 # Date: 25/08/2026
-_______________________________________ <br>
+______________________________________ <br>
 # Objective
 Design, configure, and verify an IPv4 subnetting scheme in Cisco Packet Tracer.<br>
 •	Subnet the 192.168.0.0/24 network into multiple subnets.<br>
